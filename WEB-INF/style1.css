@@ -1,0 +1,56 @@
+#login
+ {
+   position: absolute;
+   left : 400px;
+   right: 400px;
+   top: 200px;
+   bottom: 200px;
+   border: 2px silver solid;
+   color: #389093;
+ }
+ h2
+ {
+ color: 389093;
+  
+ }
+  
+ #message
+ {
+  color: violet;
+   
+ }
+ #box1
+ {
+   padding: 5px;
+ }
+ #textbox1
+ {
+   position: absolute;
+   left: 140px;
+  padding: 5px;
+  width: 200px;
+ }
+  
+ #textbox1:hover
+ {
+   position: absolute;
+   left: 140px;
+   padding: 5px;
+   width: 200px;
+   border-color: violet;
+   color: black;
+ }
+  
+#button1
+ {
+  background-color: green;
+  color: silver;
+  font-weight: bold; 
+ }
+  
+#button1:hover
+ {
+  background-color: green;
+  color: white;
+  font-weight: bold; 
+ }
